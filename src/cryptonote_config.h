@@ -331,8 +331,8 @@ namespace config
   inline constexpr uint64_t GOVERNANCE_REWARD_INTERVAL_IN_BLOCKS = 7 * cryptonote::BLOCKS_PER_DAY;
   inline constexpr std::array GOVERNANCE_WALLET_ADDRESS =
   {
-    "LCFxT37LAogDn1jLQKf4y7aAqfi21DjovX9qyijaLYQSdrxY1U5VGcnMJMjWrD9RhjeK5Lym67wZ73uh9AujXLQ1RKmXEyL"sv, // hardfork v7-10
-    "LDBEN6Ut4NkMwyaXWZ7kBEAx8X64o6YtDhLXUP26uLHyYT4nFmcaPU2Z2fauqrhTLh4Qfr61pUUZVLaTHqAdycETKM1STrz"sv, // hardfork v11
+    "SvjiRNkaFaEHuWp84S99CmadRnVmB9QY9LMkxMFg9Jfo1TLwBwFq1VTES5R8oPJV7kScDUPRK8w3zgUCRFgdvhZr3BxnZEegm"sv, // hardfork v7-10
+    "SvkQHDEHZBXcj9JwqT3WqrWYihjhPeMmf5Pb6NAYMuz7ZgDKc8C6sbaKJBJG4VBRYZ9EkAJTkHw5LJCUZRGaY59i1USJQpMLR"sv, // hardfork v11
   };
 
   inline constexpr uint64_t HARDFORK_DEREGISTRATION_GRACE_PERIOD = 7 * cryptonote::BLOCKS_PER_DAY; // After a hardfork we will decommission sns but wont dereg, allowing time to update
