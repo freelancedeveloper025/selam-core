@@ -585,12 +585,22 @@ namespace nodetool
     }
     else
     {
-      full_addrs.insert("116.203.196.12:18171");  // Hetzner seed node
-      full_addrs.insert("149.56.165.115:18171");  // Jason's seed node
-      full_addrs.insert("199.127.60.6:18171");    // Selam Foundation server "holstein"
-      full_addrs.insert("23.88.6.250:18171");     // Official Session open group server
-      full_addrs.insert("144.217.243.15:18171");  // OVH(1)
-      full_addrs.insert("51.38.133.145:18171");   // OVH(2)
+      full_addrs.insert("198.27.81.181:18171");  // Hetzner seed node
+      full_addrs.insert("79.137.70.104:18171");  // Jason's seed node
+      full_addrs.insert("149.56.20.111:18171");    // Selam Foundation server "holstein"
+      full_addrs.insert("51.75.54.132:18171");     // Official Session open group server
+      full_addrs.insert("51.222.75.80:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.81:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.82:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.83:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.84:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.85:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.86:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.87:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.88:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.89:18171");  // OVH(1)
+      full_addrs.insert("51.222.75.90:18171");   // OVH(2)
+      full_addrs.insert("51.222.75.91:18171");   // OVH(2)
     }
     return full_addrs;
   }

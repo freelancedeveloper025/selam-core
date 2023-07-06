@@ -312,18 +312,18 @@ namespace config
   // Used to estimate the blockchain height from a timestamp, with some grace time.  This can drift
   // slightly over time (because average block time is not typically *exactly*
   // DIFFICULTY_TARGET_V2).
-  inline constexpr uint64_t HEIGHT_ESTIMATE_HEIGHT = 582088;
+  inline constexpr uint64_t HEIGHT_ESTIMATE_HEIGHT = 580;
   inline constexpr time_t HEIGHT_ESTIMATE_TIMESTAMP = 1595359932;
 
-  inline constexpr uint64_t PUBLIC_ADDRESS_BASE58_PREFIX = 114;
-  inline constexpr uint64_t PUBLIC_INTEGRATED_ADDRESS_BASE58_PREFIX = 115;
-  inline constexpr uint64_t PUBLIC_SUBADDRESS_BASE58_PREFIX = 116;
+  inline constexpr uint64_t PUBLIC_ADDRESS_BASE58_PREFIX = 155;
+  inline constexpr uint64_t PUBLIC_INTEGRATED_ADDRESS_BASE58_PREFIX = 43;
+  inline constexpr uint64_t PUBLIC_SUBADDRESS_BASE58_PREFIX = 156;
   inline constexpr uint16_t P2P_DEFAULT_PORT = 18171;
   inline constexpr uint16_t RPC_DEFAULT_PORT = 18172;
   inline constexpr uint16_t ZMQ_RPC_DEFAULT_PORT = 22024;
   inline constexpr uint16_t QNET_DEFAULT_PORT = 22025;
   inline constexpr boost::uuids::uuid const NETWORK_ID = { {
-        0x46 ,0x61, 0x72, 0x62 ,0x61, 0x75, 0x74, 0x69, 0x2a, 0x4c, 0x61, 0x75, 0x66, 0x65, 0x79
+        0x4b ,0x61, 0x72, 0x62 ,0x6c, 0x75, 0xc4, 0x69, 0x2a, 0x4c, 0x21, 0x75, 0x66, 0xa5, 0x79
     } }; // Bender's nightmare
   inline constexpr std::string_view GENESIS_TX = "021e01ff000380808d93f5d771027c4fd4553bc9886f1f49e3f76d945bf71e8632a94e6c177b19cbc780e7e6bdb48080b4ccd4dfc60302c8b9f6461f58ef3f2107e577c7425d06af584a1c7482bf19060e84059c98b4c3808088fccdbcc32302732b53b0b0db706fcc3087074fb4b786da5ab72b2065699f9453448b0db27f892101ed71f2ce3fc70d7b2036f8a4e4b3fb75c66c12184b55a908e7d1a1d6995566cf00"sv;
   inline constexpr uint32_t GENESIS_NONCE = 1022201;

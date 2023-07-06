@@ -14,9 +14,9 @@ inline constexpr uint64_t EMISSION_SUPPLY_DIVISOR    = 10;
 inline constexpr uint64_t EMISSION_DIVISOR           = 2000000;
 
 // HF15 money supply parameters:
-inline constexpr uint64_t BLOCK_REWARD_HF15      = 25 * COIN;
-inline constexpr uint64_t MINER_REWARD_HF15      = BLOCK_REWARD_HF15 * 24 / 100; // Only until HF16
-inline constexpr uint64_t SN_REWARD_HF15         = BLOCK_REWARD_HF15 * 66 / 100;
+inline constexpr uint64_t BLOCK_REWARD_HF15      = 2 * COIN;
+inline constexpr uint64_t MINER_REWARD_HF15      = BLOCK_REWARD_HF15 * 6 / 100; // Only until HF16
+inline constexpr uint64_t SN_REWARD_HF15         = BLOCK_REWARD_HF15 * 84 / 100;
 inline constexpr uint64_t FOUNDATION_REWARD_HF15 = BLOCK_REWARD_HF15 * 10 / 100;
 
 // HF16+ money supply parameters: same as HF15 except the miner fee goes away and is redirected to
