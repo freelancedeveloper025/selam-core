@@ -161,11 +161,6 @@ if (SQLITECPP_INCLUDE_SCRIPT)
     # list of config & script files of the library
     set(SQLITECPP_SCRIPT
      .editorconfig
-     .gitbugtraq
-     .github/workflows/build.yml
-     .github/workflows/subdir_example.yml
-     .gitignore
-     .gitmodules
      .travis.yml
      appveyor.yml
      build.bat
