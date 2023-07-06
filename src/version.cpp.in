@@ -1,0 +1,10 @@
+#include "version.h"
+
+using namespace std::literals;
+
+const std::array<uint16_t, 3> SELAM_VERSION = {@selam_VERSION_MAJOR@, @selam_VERSION_MINOR@, @selam_VERSION_PATCH@};
+
+const std::string_view SELAM_VERSION_TAG = "@VERSIONTAG@"sv;
+const std::string_view SELAM_VERSION_STR = "@selam_VERSION@"sv;
+const std::string_view SELAM_RELEASE_NAME = "@SELAM_RELEASE_CODENAME@"sv;
+const std::string_view SELAM_VERSION_FULL = "@selam_VERSION@-@VERSIONTAG@@SELAM_RELEASE_SUFFIX@"sv;

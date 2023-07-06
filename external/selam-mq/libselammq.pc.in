@@ -1,0 +1,14 @@
+prefix=@CMAKE_INSTALL_PREFIX@
+exec_prefix=${prefix}
+libdir=@CMAKE_INSTALL_FULL_LIBDIR@
+includedir=@CMAKE_INSTALL_FULL_INCLUDEDIR@
+
+Name: libselammq
+Description: ZeroMQ-based communication library
+Version: @PROJECT_VERSION@
+
+Libs: -L${libdir} -lselammq
+Libs.private: @PRIVATE_LIBS@
+Requires: libselamc
+Requires.private: libzmq libsodium
+Cflags: -I${includedir}

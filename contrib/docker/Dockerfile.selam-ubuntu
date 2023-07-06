@@ -1,0 +1,7 @@
+FROM ubuntu:20.04
+
+ENV DEBIAN_FRONTEND noninteractive
+RUN apt-get update && apt-get -y install apt-utils ca-certificates
+COPY selam-deb-key.gpg /etc/apt/trusted.gpg.d/selam.gpg
+RUN echo "deb https://deb.selam.io focal main" > /etc/apt/sources.list.d/selam.list && \
+    apt-get update
