@@ -24,14 +24,14 @@ inline constexpr uint64_t FOUNDATION_REWARD_HF15 = BLOCK_REWARD_HF15 * 10 / 100;
 // https://github.com/selam-project/selam-improvement-proposals/issues/24 for more details.  This ends
 // after 6 months.
 inline constexpr uint64_t BLOCK_REWARD_HF16        = BLOCK_REWARD_HF15;
-inline constexpr uint64_t CHAINFLIP_LIQUIDITY_HF16 = BLOCK_REWARD_HF15 * 24 / 100;
+inline constexpr uint64_t CHAINFLIP_LIQUIDITY_HF16 = BLOCK_REWARD_HF15 * 6 / 100;
 
 // HF17: at most 6 months after HF16.  This is tentative and will likely be replaced before the
 // actual HF with a new reward schedule including Chainflip rewards, but as per the LRC linked
 // above, the liquidity funds end after 6 months.  That means that until HF17 is finalized, this is
 // the fallback if we hit the 6-months-after-HF16 point:
-inline constexpr uint64_t BLOCK_REWARD_HF17      = 18'333'333'333;
-inline constexpr uint64_t FOUNDATION_REWARD_HF17 =  1'833'333'333;
+inline constexpr uint64_t BLOCK_REWARD_HF17      = 1'880'000'000;
+inline constexpr uint64_t FOUNDATION_REWARD_HF17 =  200'000'000;
 
 static_assert(MINER_REWARD_HF15        + SN_REWARD_HF15 + FOUNDATION_REWARD_HF15 == BLOCK_REWARD_HF15);
 static_assert(CHAINFLIP_LIQUIDITY_HF16 + SN_REWARD_HF15 + FOUNDATION_REWARD_HF15 == BLOCK_REWARD_HF16);
