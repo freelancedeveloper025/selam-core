@@ -2516,7 +2516,7 @@
           "tcId" : 289,
           "comment" : "special case hash",
           "msg" : "34313835333731323336",
-          "sig" : "304402202455ebf62b50f958781792fdc705755923a30c0eb7d515a0988c1a14de62caad022010bd68c881416205bd95a5f2765d69726e0bce5b2a0ec525aeb1bba7d35d8e4a",
+          "sig" : "304401817355ebf62b50f958781792fdc705755923a30c0eb7d515a0988c1a14de62caad022010bd68c881416205bd95a5f2765d69726e0bce5b2a0ec525aeb1bba7d35d8e4a",
           "result" : "valid",
           "flags" : []
         },
@@ -2644,7 +2644,7 @@
           "tcId" : 297,
           "comment" : "r and s^-1 have a large Hamming weight",
           "msg" : "313233343030",
-          "sig" : "304402207ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc022024238e70b431b1a64efdf9032669939d4b77f249503fc6905feb7540dea3e6d2",
+          "sig" : "304402207ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc018173238e70b431b1a64efdf9032669939d4b77f249503fc6905feb7540dea3e6d2",
           "result" : "valid",
           "flags" : []
         }
@@ -4200,7 +4200,7 @@
           "tcId" : 363,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e02202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e01817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         },
@@ -4208,7 +4208,7 @@
           "tcId" : 364,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "3045022100a8ce483b42fb3461047c96ca00d1ab82c81e3d602cfdab62e059b19562bb03f302202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "3045022100a8ce483b42fb3461047c96ca00d1ab82c81e3d602cfdab62e059b19562bb03f301817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         }
@@ -4232,7 +4232,7 @@
           "tcId" : 365,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e02202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e01817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         },
@@ -4240,7 +4240,7 @@
           "tcId" : 366,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "3045022100a8ce483b42fb3461047c96ca00d1ab82c81e3d602cfdab62e059b19562bb03f302202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "3045022100a8ce483b42fb3461047c96ca00d1ab82c81e3d602cfdab62e059b19562bb03f301817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         }
@@ -4368,7 +4368,7 @@
           "tcId" : 376,
           "comment" : "y-coordinate of the public key is large",
           "msg" : "4d657373616765",
-          "sig" : "3045022024820a985bc72c8817ffdec275db7406ed5b897fff0b713d98a721a42bb4c6d402210094f1397d1e577fd47cfed7ac01f2aead6888863a3f8ff21f00c34c41e840af99",
+          "sig" : "3045018173820a985bc72c8817ffdec275db7406ed5b897fff0b713d98a721a42bb4c6d402210094f1397d1e577fd47cfed7ac01f2aead6888863a3f8ff21f00c34c41e840af99",
           "result" : "valid",
           "flags" : []
         }

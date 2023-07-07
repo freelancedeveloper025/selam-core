@@ -2148,7 +2148,7 @@
           "tcId" : 243,
           "comment" : "special case hash",
           "msg" : "32303633383532393036",
-          "sig" : "304502202069244f8e72562406d631f647a141831aca5907fbff09932797d8305ad3c19d022100dfb7a3ae1a4bdf76987d7de404c5d8b7c51a6ae8dbece9de345a4b71cb5e1f38",
+          "sig" : "304501817469244f8e72562406d631f647a141831aca5907fbff09932797d8305ad3c19d022100dfb7a3ae1a4bdf76987d7de404c5d8b7c51a6ae8dbece9de345a4b71cb5e1f38",
           "result" : "valid",
           "flags" : []
         },
@@ -4224,7 +4224,7 @@
           "tcId" : 364,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e0220249249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
+          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e0181739249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
           "result" : "invalid",
           "flags" : []
         },
@@ -4232,7 +4232,7 @@
           "tcId" : 365,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "3045022100a8ce483a42fb3462047c96ca00d1ab83ca565b2724cca9ac14411dcb8ee7e8030220249249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
+          "sig" : "3045022100a8ce483a42fb3462047c96ca00d1ab83ca565b2724cca9ac14411dcb8ee7e8030181739249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
           "result" : "invalid",
           "flags" : []
         }
@@ -4256,7 +4256,7 @@
           "tcId" : 366,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e0220249249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
+          "sig" : "304402205731b7c4bd04cb9efb836935ff2e547bf2909f86824af4d8df78acf76d7b3d4e0181739249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
           "result" : "invalid",
           "flags" : []
         },
@@ -4264,7 +4264,7 @@
           "tcId" : 367,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "3045022100a8ce483a42fb3462047c96ca00d1ab83ca565b2724cca9ac14411dcb8ee7e8030220249249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
+          "sig" : "3045022100a8ce483a42fb3462047c96ca00d1ab83ca565b2724cca9ac14411dcb8ee7e8030181739249246db6db6ddb6db6db6db6db6dad4591868595a8ee6bf5f864ff7be0c2",
           "result" : "invalid",
           "flags" : []
         }
@@ -4312,7 +4312,7 @@
           "tcId" : 371,
           "comment" : "pseudorandom signature",
           "msg" : "0000000000000000000000000000000000000000",
-          "sig" : "3045022020f6203e48fc4c66ae8a74ec61d5124772daad058a74b871914d37dfe9d409c10221008b68de7a4786e29b3a726ea7fd8ef2a585b5c8dadf11281f2caa228eb3df3f96",
+          "sig" : "3045018174f6203e48fc4c66ae8a74ec61d5124772daad058a74b871914d37dfe9d409c10221008b68de7a4786e29b3a726ea7fd8ef2a585b5c8dadf11281f2caa228eb3df3f96",
           "result" : "valid",
           "flags" : []
         }
@@ -4336,7 +4336,7 @@
           "tcId" : 372,
           "comment" : "x-coordinate of the public key has many trailing 0's",
           "msg" : "4d657373616765",
-          "sig" : "30440220207db605e42c96035d54352c5bc55cf27d5ded42cb6b42bdaee499ea64784db602207f83c09192aa04ce038e861699a0f27ca55bf32741dbc95bbf997dee57f538fc",
+          "sig" : "30440181747db605e42c96035d54352c5bc55cf27d5ded42cb6b42bdaee499ea64784db602207f83c09192aa04ce038e861699a0f27ca55bf32741dbc95bbf997dee57f538fc",
           "result" : "valid",
           "flags" : []
         },

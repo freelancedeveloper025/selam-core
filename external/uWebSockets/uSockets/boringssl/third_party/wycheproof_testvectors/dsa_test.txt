@@ -2763,7 +2763,7 @@ sig = 3021021c1e41b479ad576905b960fe14eadb91b0ccf34843dab916173bb8c9cd090180
 # replacing integer with zero
 msg = 48656c6c6f
 result = invalid
-sig = 3022020100021d00ade65988d237d30f9ef41dd424a4e1c8f16967cf3365813fe8786236
+sig = 3018174100021d00ade65988d237d30f9ef41dd424a4e1c8f16967cf3365813fe8786236
 
 # tcId = 431
 # replacing integer with zero
@@ -2859,7 +2859,7 @@ sig = 303c021c1e41b479ad576905b960fe14eadb91b0ccf34843dab916173bb8c9cd021c5219a6
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020100021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
+sig = 3018174100021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
 flags = EdgeCase
 
 # tcId = 447
@@ -2901,28 +2901,28 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 3018174100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 flags = EdgeCase
 
 # tcId = 453
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
+sig = 3018174100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
 flags = EdgeCase
 
 # tcId = 454
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
+sig = 3018174100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
 flags = EdgeCase
 
 # tcId = 455
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020100021d0100000000000000000000000000000000000000000000000000000000
+sig = 3018174100021d0100000000000000000000000000000000000000000000000000000000
 flags = EdgeCase
 
 # tcId = 456
@@ -2950,7 +2950,7 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020101021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
+sig = 3018174101021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
 flags = EdgeCase
 
 # tcId = 460
@@ -2992,28 +2992,28 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 flags = EdgeCase
 
 # tcId = 466
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
 flags = EdgeCase
 
 # tcId = 467
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
 flags = EdgeCase
 
 # tcId = 468
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 3022020101021d0100000000000000000000000000000000000000000000000000000000
+sig = 3018174101021d0100000000000000000000000000000000000000000000000000000000
 flags = EdgeCase
 
 # tcId = 469
@@ -3041,7 +3041,7 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 30220201ff021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
+sig = 30181741ff021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
 flags = EdgeCase
 
 # tcId = 473
@@ -3083,28 +3083,28 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 30220201ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 30181741ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 flags = EdgeCase
 
 # tcId = 479
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 30220201ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
+sig = 30181741ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
 flags = EdgeCase
 
 # tcId = 480
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 30220201ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
+sig = 30181741ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
 flags = EdgeCase
 
 # tcId = 481
 # Signatures with special case values for r and s.
 msg = 48656c6c6f
 result = invalid
-sig = 30220201ff021d0100000000000000000000000000000000000000000000000000000000
+sig = 30181741ff021d0100000000000000000000000000000000000000000000000000000000
 flags = EdgeCase
 
 # tcId = 482
@@ -3947,13 +3947,13 @@ sig = 3006020101020105
 # u2 small
 msg = 54657374
 result = valid
-sig = 3022020101021d009592121ed12d93197f1ffb863ac63937f28ef4f62f1e009a30aabab1
+sig = 3018174101021d009592121ed12d93197f1ffb863ac63937f28ef4f62f1e009a30aabab1
 
 # tcId = 603
 # s == q-1
 msg = 54657374
 result = valid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 
 [key.g = 16a65c58204850704e7502a39757040d34da3a3478c154d4e4a5c02d242ee04f96e61e4bd0904abdac8f37eeb1e09f3182d23c9043cb642f88004160edf9ca09b32076a79c32a627f2473e91879ba2c4e744bd2081544cb55b802c368d1fa83ed489e94e0fa0688e32428a5c78c478c68d0527b71c9a3abb0b0be12c44689639e7d3ce74db101a65aa2b87f64c6826db3ec72f4b5599834bb4edb02f7c90e9a496d3a55d535bebfc45d4f619f63f3dedbb873925c2f224e07731296da887ec1e4748f87efb5fdeb75484316b2232dee553ddaf02112b0d1f02da30973224fe27aeda8b9d4b2922d9ba8be39ed9e103a63c52810bc688b7e2ed4316e1ef17dbde]
 [key.keySize = 2048]
@@ -4842,7 +4842,7 @@ sig = 303e021d009b6fe4a1cbd4467d7584ae382ae3130a580e61b969a6067373d5ee93021d00a0
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020100021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
+sig = 3018174100021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
 flags = EdgeCase
 
 # tcId = 749
@@ -4884,28 +4884,28 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 3018174100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 flags = EdgeCase
 
 # tcId = 755
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
+sig = 3018174100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
 flags = EdgeCase
 
 # tcId = 756
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
+sig = 3018174100021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
 flags = EdgeCase
 
 # tcId = 757
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020100021d0100000000000000000000000000000000000000000000000000000000
+sig = 3018174100021d0100000000000000000000000000000000000000000000000000000000
 flags = EdgeCase
 
 # tcId = 758
@@ -4933,7 +4933,7 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020101021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
+sig = 3018174101021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
 flags = EdgeCase
 
 # tcId = 762
@@ -4975,28 +4975,28 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 flags = EdgeCase
 
 # tcId = 768
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
 flags = EdgeCase
 
 # tcId = 769
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
 flags = EdgeCase
 
 # tcId = 770
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 3022020101021d0100000000000000000000000000000000000000000000000000000000
+sig = 3018174101021d0100000000000000000000000000000000000000000000000000000000
 flags = EdgeCase
 
 # tcId = 771
@@ -5024,7 +5024,7 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 30220201ff021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
+sig = 30181741ff021dff450969597a870820211805983688387a10cd4dcc451a7f3f432a96a3
 flags = EdgeCase
 
 # tcId = 775
@@ -5066,28 +5066,28 @@ flags = EdgeCase
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 30220201ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 30181741ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 flags = EdgeCase
 
 # tcId = 781
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 30220201ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
+sig = 30181741ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695d
 flags = EdgeCase
 
 # tcId = 782
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 30220201ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
+sig = 30181741ff021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695e
 flags = EdgeCase
 
 # tcId = 783
 # Signatures with special case values for r and s.
 msg = 54657374
 result = invalid
-sig = 30220201ff021d0100000000000000000000000000000000000000000000000000000000
+sig = 30181741ff021d0100000000000000000000000000000000000000000000000000000000
 flags = EdgeCase
 
 # tcId = 784
@@ -5930,13 +5930,13 @@ sig = 3006020101020105
 # u2 small
 msg = 54657374
 result = valid
-sig = 3022020101021d009592121ed12d93197f1ffb863ac63937f28ef4f62f1e009a30aabab1
+sig = 3018174101021d009592121ed12d93197f1ffb863ac63937f28ef4f62f1e009a30aabab1
 
 # tcId = 905
 # s == q-1
 msg = 54657374
 result = valid
-sig = 3022020101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
+sig = 3018174101021d00baf696a68578f7dfdee7fa67c977c785ef32b233bae580c0bcd5695c
 
 [key.g = 16a65c58204850704e7502a39757040d34da3a3478c154d4e4a5c02d242ee04f96e61e4bd0904abdac8f37eeb1e09f3182d23c9043cb642f88004160edf9ca09b32076a79c32a627f2473e91879ba2c4e744bd2081544cb55b802c368d1fa83ed489e94e0fa0688e32428a5c78c478c68d0527b71c9a3abb0b0be12c44689639e7d3ce74db101a65aa2b87f64c6826db3ec72f4b5599834bb4edb02f7c90e9a496d3a55d535bebfc45d4f619f63f3dedbb873925c2f224e07731296da887ec1e4748f87efb5fdeb75484316b2232dee553ddaf02112b0d1f02da30973224fe27aeda8b9d4b2922d9ba8be39ed9e103a63c52810bc688b7e2ed4316e1ef17dbde]
 [key.keySize = 2048]

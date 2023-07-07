@@ -320,7 +320,7 @@ namespace config
   inline constexpr uint64_t PUBLIC_SUBADDRESS_BASE58_PREFIX = 156;
   inline constexpr uint16_t P2P_DEFAULT_PORT = 18171;
   inline constexpr uint16_t RPC_DEFAULT_PORT = 18172;
-  inline constexpr uint16_t ZMQ_RPC_DEFAULT_PORT = 22024;
+  inline constexpr uint16_t ZMQ_RPC_DEFAULT_PORT = 18173;
   inline constexpr uint16_t QNET_DEFAULT_PORT = 22025;
   inline constexpr boost::uuids::uuid const NETWORK_ID = { {
         0x4b ,0x61, 0x72, 0x62 ,0x6c, 0x75, 0xc4, 0x69, 0x2a, 0x4c, 0x21, 0x75, 0x66, 0xa5, 0x79

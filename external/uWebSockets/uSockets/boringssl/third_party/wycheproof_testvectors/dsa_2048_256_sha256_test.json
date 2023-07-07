@@ -2974,7 +2974,7 @@
           "tcId" : 333,
           "comment" : "special case hash",
           "msg" : "33323631313938363038",
-          "sig" : "3045022024d023edab57bb511de08187a383eb1a233610176a87dde81cbff115766cc581022100eacfd24bdbeabe97e7fceb1d6ca359c324a5c8f7160c3da3fcb8eb72a1ed3bab",
+          "sig" : "3045018173d023edab57bb511de08187a383eb1a233610176a87dde81cbff115766cc581022100eacfd24bdbeabe97e7fceb1d6ca359c324a5c8f7160c3da3fcb8eb72a1ed3bab",
           "result" : "valid",
           "flags" : []
         },
