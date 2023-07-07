@@ -262,7 +262,7 @@
           "tcId" : 29,
           "comment" : "including garbage",
           "msg" : "313233343030",
-          "sig" : "304d221817107d68757ac197624ae5c77dfa1b3bdda708fa5a29fdf1fbd577472ccd4f32abe60004deadbeef022100a60eff581b588b3070fba881426546538ba50d21088a8f3bef9ed967e973d497",
+          "sig" : "304d222202207d68757ac197624ae5c77dfa1b3bdda708fa5a29fdf1fbd577472ccd4f32abe60004deadbeef022100a60eff581b588b3070fba881426546538ba50d21088a8f3bef9ed967e973d497",
           "result" : "invalid",
           "flags" : []
         },
@@ -560,7 +560,7 @@
           "tcId" : 66,
           "comment" : "truncated sequence: removed last 1 elements",
           "msg" : "313233343030",
-          "sig" : "301817107d68757ac197624ae5c77dfa1b3bdda708fa5a29fdf1fbd577472ccd4f32abe6",
+          "sig" : "302202207d68757ac197624ae5c77dfa1b3bdda708fa5a29fdf1fbd577472ccd4f32abe6",
           "result" : "invalid",
           "flags" : []
         },
@@ -2252,7 +2252,7 @@
           "tcId" : 256,
           "comment" : "special case hash",
           "msg" : "33333337313139393735",
-          "sig" : "30440181716464501f1ccc32f1e1482fff4624f4949343c79a820d4b9df637b493ab5b2302204eb47d0fd14db448cedd611e1dae972bdf27ce0fcfc19d9ec5bda9683081598d",
+          "sig" : "30440220226464501f1ccc32f1e1482fff4624f4949343c79a820d4b9df637b493ab5b2302204eb47d0fd14db448cedd611e1dae972bdf27ce0fcfc19d9ec5bda9683081598d",
           "result" : "valid",
           "flags" : []
         },
@@ -2572,7 +2572,7 @@
           "tcId" : 296,
           "comment" : "special case hash",
           "msg" : "35303338363930383739",
-          "sig" : "30450181733a857dfd167b938492c421bd657659d101944736fa79b903cf91ec1c49e8e3022100bab3f04f130d737993ec8f45503376abe816c2b8e5ab3decb0dbca4f5e181d08",
+          "sig" : "30450220243a857dfd167b938492c421bd657659d101944736fa79b903cf91ec1c49e8e3022100bab3f04f130d737993ec8f45503376abe816c2b8e5ab3decb0dbca4f5e181d08",
           "result" : "valid",
           "flags" : []
         },
@@ -2836,7 +2836,7 @@
           "tcId" : 329,
           "comment" : "special case hash",
           "msg" : "31333031373232313038",
-          "sig" : "30450221009d76a05d5803a2da17dc2782ec469c8024b1d293a38c23ac4eeb3058595a24a70181716595b192ea8336faa44670fef5e808ff9911ccda85a1765c19ec44671b0505",
+          "sig" : "30450221009d76a05d5803a2da17dc2782ec469c8024b1d293a38c23ac4eeb3058595a24a70220226595b192ea8336faa44670fef5e808ff9911ccda85a1765c19ec44671b0505",
           "result" : "valid",
           "flags" : []
         },
@@ -2956,7 +2956,7 @@
           "tcId" : 344,
           "comment" : "special case hash",
           "msg" : "36363433333334373231",
-          "sig" : "304502200bea324758ea80ed4a0a56f7d836fc73bf196e43fbc59d953f0ce34abba57b18171100f04027248e83bd48fb1571291ca1a5f088eb3e89f00904d71b9ea8d6677f7893",
+          "sig" : "304502200bea324758ea80ed4a0a56f7d836fc73bf196e43fbc59d953f0ce34abba57b22022100f04027248e83bd48fb1571291ca1a5f088eb3e89f00904d71b9ea8d6677f7893",
           "result" : "valid",
           "flags" : []
         },
@@ -2972,7 +2972,7 @@
           "tcId" : 346,
           "comment" : "special case hash",
           "msg" : "3230313834343032",
-          "sig" : "3044018173174a81d221a4bfd8978f312acec4dacc4f08f8f8cdf29b2024bad2177758df022073fc1bf3388009e3219cf4c7e62e4aeaffc1b9614b2831405a01403c86936452",
+          "sig" : "3044022024174a81d221a4bfd8978f312acec4dacc4f08f8f8cdf29b2024bad2177758df022073fc1bf3388009e3219cf4c7e62e4aeaffc1b9614b2831405a01403c86936452",
           "result" : "valid",
           "flags" : []
         },
@@ -3172,7 +3172,7 @@
           "tcId" : 363,
           "comment" : "r and s^-1 have a large Hamming weight",
           "msg" : "313233343030",
-          "sig" : "304402207ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc018173238e70b431b1a64efdf9032669939d4b77f249503fc6905feb7540dea3e6d2",
+          "sig" : "304402207ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc022024238e70b431b1a64efdf9032669939d4b77f249503fc6905feb7540dea3e6d2",
           "result" : "valid",
           "flags" : []
         }
@@ -4728,7 +4728,7 @@
           "tcId" : 429,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "30440220342dae751a63a3ca8189cf342b3b34eaaa2565e2c7e26121c1bfd5435447f1c301817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "30440220342dae751a63a3ca8189cf342b3b34eaaa2565e2c7e26121c1bfd5435447f1c302202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         },
@@ -4736,7 +4736,7 @@
           "tcId" : 430,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "3045022100cbd2518ae59c5c357e7630cbd4c4cb1410897703e7663f19fe1289497bee4f7e01817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "3045022100cbd2518ae59c5c357e7630cbd4c4cb1410897703e7663f19fe1289497bee4f7e02202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         }
@@ -4760,7 +4760,7 @@
           "tcId" : 431,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "30440220342dae751a63a3ca8189cf342b3b34eaaa2565e2c7e26121c1bfd5435447f1c301817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "30440220342dae751a63a3ca8189cf342b3b34eaaa2565e2c7e26121c1bfd5435447f1c302202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         },
@@ -4768,7 +4768,7 @@
           "tcId" : 432,
           "comment" : "testing point duplication",
           "msg" : "313233343030",
-          "sig" : "3045022100cbd2518ae59c5c357e7630cbd4c4cb1410897703e7663f19fe1289497bee4f7e01817392492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
+          "sig" : "3045022100cbd2518ae59c5c357e7630cbd4c4cb1410897703e7663f19fe1289497bee4f7e02202492492492492492492492492492492463cfd66a190a6008891e0d81d49a0952",
           "result" : "invalid",
           "flags" : []
         }
@@ -4792,7 +4792,7 @@
           "tcId" : 433,
           "comment" : "pseudorandom signature",
           "msg" : "",
-          "sig" : "3044018171bb0000e9648a0ee659f9b6a9ab6513dc90ab968ec49d3953f64c82bddc852002204aa0dfd047b0786e118231eff7e86311487ec9d1bc84aaef1f736f4178c288f9",
+          "sig" : "3044022022bb0000e9648a0ee659f9b6a9ab6513dc90ab968ec49d3953f64c82bddc852002204aa0dfd047b0786e118231eff7e86311487ec9d1bc84aaef1f736f4178c288f9",
           "result" : "valid",
           "flags" : []
         },
@@ -4880,7 +4880,7 @@
           "tcId" : 440,
           "comment" : "y-coordinate of the public key is large",
           "msg" : "4d657373616765",
-          "sig" : "3044022053cc0edfc688e3d264ed4755f9cf006418e16e24dc978453a6ef14fbecff617f018173694c00d38c13259973aa6db88adf7cc49b5673e628b3c65e7fe06f2665db86",
+          "sig" : "3044022053cc0edfc688e3d264ed4755f9cf006418e16e24dc978453a6ef14fbecff617f022024694c00d38c13259973aa6db88adf7cc49b5673e628b3c65e7fe06f2665db86",
           "result" : "valid",
           "flags" : []
         },

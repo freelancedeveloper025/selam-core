@@ -4797,7 +4797,7 @@ static const alignas(4096) PRECOMP256_ROW ecp_nistz256_precomputed[37] = {
        TOBN(0x07ec4ae1, 0x6e1f4ca9), TOBN(0x27eb5875, 0xba893f11)}},
      {{TOBN(0x00284d51, 0x662cc565), TOBN(0x82353a6b, 0x0db4138d),
        TOBN(0xd9c7aaaa, 0xaa32a594), TOBN(0xf5528b5e, 0xa5669c47)},
-      {TOBN(0xf3181721, 0x2f23c5ff), TOBN(0xe3e8147a, 0x6affa3a1),
+      {TOBN(0xf3220231, 0x2f23c5ff), TOBN(0xe3e8147a, 0x6affa3a1),
        TOBN(0xfb423d5c, 0x202ddda0), TOBN(0x3d6414ac, 0x6b871bd4)}},
      {{TOBN(0x586f82e1, 0xa51a168a), TOBN(0xb712c671, 0x48ae5448),
        TOBN(0x9a2e4bd1, 0x76233eb8), TOBN(0x0188223a, 0x78811ca9)},

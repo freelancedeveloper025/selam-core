@@ -4496,7 +4496,7 @@
           "tcId" : 398,
           "comment" : "x-coordinate of the public key has many trailing 0's",
           "msg" : "4d657373616765",
-          "sig" : "3065023100c286d1928e9c79fdd3bebdf22a1dbd37c8105e8ecf41e9e3777fe341b6b8d5a89b9d986827d6d1dbb381cd8239484a181720201119ae305b9360aa9b5e5d1567e0674c09e4f025556ebf81b987466b0f421b8d31f72bbe95f3ce2aa9874a84edfd40",
+          "sig" : "3065023100c286d1928e9c79fdd3bebdf22a1dbd37c8105e8ecf41e9e3777fe341b6b8d5a89b9d986827d6d1dbb381cd8239484a220230201119ae305b9360aa9b5e5d1567e0674c09e4f025556ebf81b987466b0f421b8d31f72bbe95f3ce2aa9874a84edfd40",
           "result" : "valid",
           "flags" : []
         },

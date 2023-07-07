@@ -4032,7 +4032,7 @@
           "tcId" : 274,
           "comment" : "x-coordinate of the public key has many trailing 1's",
           "msg" : "4d657373616765",
-          "sig" : "f11473117b66e5d84a2ecd0f8b7ec4a2cc2aee89ae018174235777305142f498fe5ce43ced28f3f69f65e810678afefd2bdeefb051280ad2880157fda28b2ab1",
+          "sig" : "f11473117b66e5d84a2ecd0f8b7ec4a2cc2aee89ae022020235777305142f498fe5ce43ced28f3f69f65e810678afefd2bdeefb051280ad2880157fda28b2ab1",
           "result" : "valid",
           "flags" : []
         },

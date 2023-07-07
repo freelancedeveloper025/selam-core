@@ -2130,7 +2130,7 @@
           "tcId" : 241,
           "comment" : "special case hash",
           "msg" : "35323431373932333331",
-          "sig" : "3064023058fb974bef2acaf2547cacb6f0cc934b5991c66eb7a223755209acaf5b9e4b0fed712c76606c59c1014ba2c2eb1bb31817207d9e265dc09e031014182b369e15b4a34dba3901062d627cffab561e73d38bbea907272346fbb247d3ec63564fe1cbef",
+          "sig" : "3064023058fb974bef2acaf2547cacb6f0cc934b5991c66eb7a223755209acaf5b9e4b0fed712c76606c59c1014ba2c2eb1bb32202307d9e265dc09e031014182b369e15b4a34dba3901062d627cffab561e73d38bbea907272346fbb247d3ec63564fe1cbef",
           "result" : "valid",
           "flags" : []
         },

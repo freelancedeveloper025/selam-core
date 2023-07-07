@@ -272,7 +272,7 @@
           "tcId" : 31,
           "comment" : "including garbage",
           "msg" : "313233343030",
-          "sig" : "304d022100abd2a785a219e884fd96d92b8b29ba2b68e4a693ab9c4a55d98ca24addb271ad221817105bf17d17a8d9172cab83df9e56cccce8f282e35bbdbe99eadf8bc20ae9722c6f0004deadbeef",
+          "sig" : "304d022100abd2a785a219e884fd96d92b8b29ba2b68e4a693ab9c4a55d98ca24addb271ad222202205bf17d17a8d9172cab83df9e56cccce8f282e35bbdbe99eadf8bc20ae9722c6f0004deadbeef",
           "result" : "invalid",
           "flags" : []
         },
@@ -736,7 +736,7 @@
           "tcId" : 89,
           "comment" : "removing integer",
           "msg" : "313233343030",
-          "sig" : "301817105bf17d17a8d9172cab83df9e56cccce8f282e35bbdbe99eadf8bc20ae9722c6f",
+          "sig" : "302202205bf17d17a8d9172cab83df9e56cccce8f282e35bbdbe99eadf8bc20ae9722c6f",
           "result" : "invalid",
           "flags" : []
         },
@@ -2974,7 +2974,7 @@
           "tcId" : 333,
           "comment" : "special case hash",
           "msg" : "33323631313938363038",
-          "sig" : "3045018173d023edab57bb511de08187a383eb1a233610176a87dde81cbff115766cc581022100eacfd24bdbeabe97e7fceb1d6ca359c324a5c8f7160c3da3fcb8eb72a1ed3bab",
+          "sig" : "3045022024d023edab57bb511de08187a383eb1a233610176a87dde81cbff115766cc581022100eacfd24bdbeabe97e7fceb1d6ca359c324a5c8f7160c3da3fcb8eb72a1ed3bab",
           "result" : "valid",
           "flags" : []
         },

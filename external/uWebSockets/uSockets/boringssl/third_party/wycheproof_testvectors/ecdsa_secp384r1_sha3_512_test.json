@@ -2070,7 +2070,7 @@
           "tcId" : 233,
           "comment" : "special case hash",
           "msg" : "36363033343338303333",
-          "sig" : "3065023100b35e96f93302bc08e339bfbb2fbe04872f1eca413084629041ffc0dd94eee677bc32cb09022ed6214153f2ed705edb1817205aee1acff79c6bdbbb4d3c656c3010eba72fa671df68637a5fbbc2dd2268bbb4fef4a85c90b49013e0c1a2aecd342b6c",
+          "sig" : "3065023100b35e96f93302bc08e339bfbb2fbe04872f1eca413084629041ffc0dd94eee677bc32cb09022ed6214153f2ed705edb2202305aee1acff79c6bdbbb4d3c656c3010eba72fa671df68637a5fbbc2dd2268bbb4fef4a85c90b49013e0c1a2aecd342b6c",
           "result" : "valid",
           "flags" : []
         },
@@ -2334,7 +2334,7 @@
           "tcId" : 266,
           "comment" : "special case hash",
           "msg" : "33373433353638373832",
-          "sig" : "3065023011920756203720443ab0b6fd4f41788f7efe593ceb02ab61aa25caa1db7ba426e6c0719b44c44c581f14ae38bca2dc18172100d6c6acaefab23ffe971cadad8386398bdd7bb986f225ef5c2f9c08cc7b74fbd679686ac02ca55c2a009f829fafe3c28e",
+          "sig" : "3065023011920756203720443ab0b6fd4f41788f7efe593ceb02ab61aa25caa1db7ba426e6c0719b44c44c581f14ae38bca2dc22023100d6c6acaefab23ffe971cadad8386398bdd7bb986f225ef5c2f9c08cc7b74fbd679686ac02ca55c2a009f829fafe3c28e",
           "result" : "valid",
           "flags" : []
         },

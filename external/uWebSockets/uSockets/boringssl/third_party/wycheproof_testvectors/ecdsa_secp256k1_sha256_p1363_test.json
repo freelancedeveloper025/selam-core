@@ -3331,7 +3331,7 @@
           "tcId" : 195,
           "comment" : "y-coordinate of the public key is small",
           "msg" : "4d657373616765",
-          "sig" : "aad503de9b9fd66b948e9acf596f0a0e65e700b28b26ec56e6e45e846489b3c4fff223c5d0765447e8447a3f9d31fd0696e89d244418171ff61a110b2a8c2f04",
+          "sig" : "aad503de9b9fd66b948e9acf596f0a0e65e700b28b26ec56e6e45e846489b3c4fff223c5d0765447e8447a3f9d31fd0696e89d244422022ff61a110b2a8c2f04",
           "result" : "valid",
           "flags" : []
         },

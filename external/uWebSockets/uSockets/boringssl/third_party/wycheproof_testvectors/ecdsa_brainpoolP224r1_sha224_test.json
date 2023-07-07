@@ -1079,7 +1079,7 @@
           "tcId" : 129,
           "comment" : "replacing integer with zero",
           "msg" : "313233343030",
-          "sig" : "3018174100021d00c424bc85ebd52fa505423a442a8443238658ca3b7c39bace3f3d5110",
+          "sig" : "3022020100021d00c424bc85ebd52fa505423a442a8443238658ca3b7c39bace3f3d5110",
           "result" : "invalid",
           "flags" : []
         },
@@ -1229,7 +1229,7 @@
           "tcId" : 147,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174100021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939f",
+          "sig" : "3022020100021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939f",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1239,7 +1239,7 @@
           "tcId" : 148,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174100021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939e",
+          "sig" : "3022020100021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939e",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1249,7 +1249,7 @@
           "tcId" : 149,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174100021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a793a0",
+          "sig" : "3022020100021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a793a0",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1259,7 +1259,7 @@
           "tcId" : 150,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174100021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c0ff",
+          "sig" : "3022020100021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c0ff",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1269,7 +1269,7 @@
           "tcId" : 151,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174100021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c100",
+          "sig" : "3022020100021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c100",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1329,7 +1329,7 @@
           "tcId" : 157,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939f",
+          "sig" : "3022020101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939f",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1339,7 +1339,7 @@
           "tcId" : 158,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939e",
+          "sig" : "3022020101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939e",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1349,7 +1349,7 @@
           "tcId" : 159,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a793a0",
+          "sig" : "3022020101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a793a0",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1359,7 +1359,7 @@
           "tcId" : 160,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174101021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c0ff",
+          "sig" : "3022020101021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c0ff",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1369,7 +1369,7 @@
           "tcId" : 161,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "3018174101021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c100",
+          "sig" : "3022020101021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c100",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1429,7 +1429,7 @@
           "tcId" : 167,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "30181741ff021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939f",
+          "sig" : "30220201ff021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939f",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1439,7 +1439,7 @@
           "tcId" : 168,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "30181741ff021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939e",
+          "sig" : "30220201ff021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a7939e",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1449,7 +1449,7 @@
           "tcId" : 169,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "30181741ff021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a793a0",
+          "sig" : "30220201ff021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5a793a0",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1459,7 +1459,7 @@
           "tcId" : 170,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "30181741ff021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c0ff",
+          "sig" : "30220201ff021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c0ff",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -1469,7 +1469,7 @@
           "tcId" : 171,
           "comment" : "Signature with special case values for r and s",
           "msg" : "313233343030",
-          "sig" : "30181741ff021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c100",
+          "sig" : "30220201ff021d00d7c134aa264366862a18302575d1d787b09f075797da89f57ec8c100",
           "result" : "invalid",
           "flags" : [
             "EdgeCase"
@@ -2463,7 +2463,7 @@
           "tcId" : 266,
           "comment" : "s is larger than n",
           "msg" : "313233343030",
-          "sig" : "3018174101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5ba6a26",
+          "sig" : "3022020101021d00d7c134aa264366862a18302575d0fb98d116bc4b6ddebca3a5ba6a26",
           "result" : "invalid",
           "flags" : []
         }
@@ -2559,7 +2559,7 @@
           "tcId" : 270,
           "comment" : "small r and 100 bit s^-1",
           "msg" : "313233343030",
-          "sig" : "301817420102021c73168a8994e5f71793081cb7afbe3c0af4bf7aa336cf9de31ef85314",
+          "sig" : "302202020102021c73168a8994e5f71793081cb7afbe3c0af4bf7aa336cf9de31ef85314",
           "result" : "valid",
           "flags" : []
         }
